@@ -1,9 +1,9 @@
-#Console Bank appication
+<h1>Console Bank appication<h1>
 These is a console bank application with the following functionality:
-&emsp * Opening an account
-&emsp * Close an account
-&emsp * List all account
-&emsp * Withdraw
-&emsp * Deposit
+* Opening an account
+* Close an account
+* List all account
+* Withdraw
+* Deposit
 
-###&nbsp By: Venex248
+By: Venex248
