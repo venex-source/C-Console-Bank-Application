@@ -11,4 +11,4 @@ These is a console bank application with the following functionality:
    <br />
 * Deposit
  <br />
-By: Venex248
+
